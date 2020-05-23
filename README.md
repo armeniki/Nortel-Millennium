@@ -22,5 +22,6 @@ If you would like to contribute to this library, you can upload any files to the
 https://www.dropbox.com/request/uYwWzCAZVK7fZ3PuEgoc
 
 ```diff
-- I am desperately looking for 1.9 firmware for a Desktop model that I own.  If you have a copy you can provide, I would be grateful.  Cheers.
+- I am desperately looking for 1.9 firmware for a Desktop model that I own.  
+- If you have a copy you can provide, I would be grateful.  Cheers.
 ```
