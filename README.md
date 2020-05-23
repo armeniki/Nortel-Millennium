@@ -2,7 +2,7 @@
 
 This repository is for those who own one (or more!) of these truly unique payphones which Nortel developed in the 1990s.  If you grew up in Canada and some parts of the US during the 90s and early 2000s, you have most certainly used one of these payhones before.  They are still in use today, albeit in much smaller numbers.
 
-As some telephone companies began phasing some of these payphones out during the past decade, many of them have appeared on online auction sites and some estate sales.  Being a telephone enthusiast who has worked in the telecom and IT industry for many years, I have always had an interest in telephones, from the old Western Electric 302 models that I used to restore to these newer payphones.  As a result, I have a number of them at home.
+As some telephone companies began phasing some of these payphones out during the past decade, many of them have appeared on online auction sites and some estate sales.  Being a telephone enthusiast who has worked as a technician in the telecom and programmer in the IT industry, I have always had an interest in telephones.  I have collected a variety of telephones from the old Western Electric 302 models that I used to restore, to payphones such as these.
 
 Unlike most other payphones, however, the Millennium payphones will not work unless you configure them, unless they are equipped with special "demo" firmware.  In any event, virtually all Millennium payphones that have been sold to the general public were, at one point, in service as standard payphones; therefore, they must be configured to function.
 
@@ -15,7 +15,7 @@ I was then able to get the payphones I owned to work, mostly my own enjoyment an
 
 I have realised that with the ongoing decomissioning of more payphones nowadays, there have been some people who also share an interest in these phones which is great!  
 
-The purpose of this repository is to help other telephone enthusiasts and collectors who own these payphones by providing tips, documentation, firmware and other tools.  
+The purpose of this repository is to help other telephone enthusiasts and collectors who own these payphones by providing tips, documentation, firmware and other tools.  If you would like to find out more about how these payphones work, please click [here](https://github.com/armeniki/Nortel-Millennium/blob/master/Documentation/Overview.md).  
 
 If you would like to contribute to this library, you can upload any files to the following Dropbox link.  You do not need to have a Dropbox account to use it, simply click on the "Choose Files" button.
 
