@@ -1,4 +1,4 @@
-# Millennium Payphone Support
+# The Millennium Payphone
 
 This repository is for those who own one (or more!) of these truly unique payphones which Nortel developed in the 1990s.  If you grew up in Canada and some parts of the US during the 90s and early 2000s, you have most certainly used one of these payhones before.  They are still in use today, albeit in much smaller numbers.
 
