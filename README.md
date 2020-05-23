@@ -9,7 +9,7 @@ Unlike most other payphones, however, the Millennium payphones will not work unl
 Configuration is accomplished by an initial set up of basic parameters which includes a telephone number of the NCC or Network Control Centre.  This is a server which the payphone connects to through an internal modem and then subsequently downloads all of the necessary configuartion into its memory.  The marketing name for the NCC has been "Millennium Manager".
 
 Around 2012 I built an "at-home" version of the NCC server which I called "Millennium Manager Express":  
-![alt text](https://github.com/armeniki/Nortel-Millennium/blob/master/Documentation/mme.jpg "Screenshot")
+![alt text](https://github.com/armeniki/Nortel-Millennium/blob/master/Documentation/pics/mme.jpg "Screenshot")
 
 I was then able to get the payphones I owned to work, mostly my own enjoyment and sentimental reasons.  It was just something fun that I can show guests at my house. 
 
