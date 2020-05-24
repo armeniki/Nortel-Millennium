@@ -26,3 +26,5 @@ https://www.dropbox.com/request/uYwWzCAZVK7fZ3PuEgoc
 - I am desperately looking for MTR 1.9 DESKTOP firmware for a model that I own.  
 - If you have a copy you can provide, I would be grateful!  Cheers.
 ```
+
+If you are curious about functionality and would like to learn more, I am currently putting together a Wiki which can be accessed by clicking [here] (https://github.com/armeniki/Nortel-Millennium/wiki).
