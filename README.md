@@ -11,7 +11,7 @@ Configuration is accomplished by an initial set up of basic parameters which inc
 Around 2012 I built an "at-home" version of the NCC server which I called "Millennium Manager Express":  
 ![alt text](https://github.com/armeniki/Nortel-Millennium/blob/master/Documentation/pics/mme.jpg "Screenshot")
 
-I was then able to get the payphones I owned to work, mostly my own enjoyment and sentimental reasons.  It was just something fun that I can show guests at my house. 
+I was then able to get the payphones I owned to work, for my own enjoyment and sentimental reasons.  It was also something fun that I can show guests at my house. 
 
 I have realised that with the ongoing decomissioning of more payphones nowadays, there have been some people who also share an interest in these phones which is great!  
 
