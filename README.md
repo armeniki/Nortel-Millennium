@@ -6,9 +6,6 @@ I have always had an interest or fasincation with telephones (I don't know why) 
 
 **If you are curious about functionality or would like to learn more, I am currently putting together a Wiki which can be accessed by clicking [here](https://github.com/armeniki/Nortel-Millennium/wiki).**
 
-### Overview
-Configuration is accomplished by an initial set up of basic parameters which includes a telephone number of the NCC or Network Control Centre.  This is a server which the payphone connects to through an internal modem and then subsequently downloads all of the necessary configuartion into its memory.  The marketing name for the NCC has been "Millennium Manager".
-
 Around 2012 I built an "at-home" version of the NCC server which I called "Millennium Manager Express":  
 ![alt text](https://github.com/armeniki/Nortel-Millennium/blob/master/Documentation/pics/mme.jpg "Screenshot")
 
