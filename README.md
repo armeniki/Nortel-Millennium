@@ -17,7 +17,7 @@ I was then able to get my payphones to work for my own enjoyment and sentimental
 ### Purpose of this Repo
 I have realised that with the ongoing decomissioning of more payphones nowadays, there have been some people who also share an interest in these phones which is great!  
 
-The purpose of this repository is to help other telephone enthusiasts and collectors who own these payphones by providing tips, documentation, firmware and other tools.  If you would like to find out more about how these payphones work, please click [here](https://github.com/armeniki/Nortel-Millennium/blob/master/Documentation/Overview.md).  
+The purpose of this repository is to help other telephone enthusiasts and collectors who own these payphones by providing tips, documentation, firmware and other tools.
 
 ### Help Improve this Repo
 If you would like to contribute to this library, you can upload any files to the following Dropbox link.  You do not need to have a Dropbox account to use it, simply click on the "Choose Files" button.
