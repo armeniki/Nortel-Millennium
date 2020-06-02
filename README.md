@@ -22,7 +22,8 @@ If you would like to contribute to this library, you can upload any files to the
 Here's the link:  https://www.dropbox.com/request/uYwWzCAZVK7fZ3PuEgoc
 
 ```diff
-- FIRMWARE NEEDED!
-- Looking for MTR 1.9 DESKTOP firmware.
-- If you have a copy, I would be grateful!  Cheers.
+FIRMWARE NEEDED!
+Looking for MTR 1.9 DESKTOP firmware.
+(NBJ2F01 NBJ2F03 NBJ2F04 NBJ2J03 or NBJ2J04)
+If you have a copy, I would be grateful!  Cheers.
 ```
