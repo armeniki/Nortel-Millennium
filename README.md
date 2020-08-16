@@ -1,4 +1,4 @@
-# The Millennium Payphone
+# The Nortel Millennium Payphone
 
 This repository is for those who own one (or more!) of these truly unique payphones which were developed by Northern Telecom (Nortel) in the 1990s.  If you grew up in Canada and some parts of the US during the 1990s and 2000s, you have most certainly used one of these payhones before.  They are still in use today, albeit in much smaller numbers.  As telephone companies began phasing some of these payphones out during the past decade, many of them have appeared on online auction sites and subsequently in people's homes.
 
