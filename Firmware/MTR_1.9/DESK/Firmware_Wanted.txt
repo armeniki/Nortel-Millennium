@@ -1,8 +1,7 @@
 Please consider contributing to this repository.
-If you have version 1.9 firmware for a Desk set it would be appreciated.
+If you have other MTR 1.9 firmware for a DESK set, it would be appreciated.  A DropBox link is located on the main page.
 
-The firmware identifiers for MTR 1.9 desk set are:
-
+Missing firmware identifiers for MTR 1.9 desk set are:
 NBJ2F01
 NBJ2F03
 NBJ2F04
